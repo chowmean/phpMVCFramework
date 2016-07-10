@@ -17,4 +17,6 @@ This is simple project for creating MVC structure for your apis. By using this y
 * [x] Routing
 * [ ] Templating
 * [ ] Better Structuring
-* [ ] Database Manipulation, may be any orm if possible.
+* [ ] Database Manipulation, may be any ORM if possible.
+* [ ] Auto configurable scripts.
+* [ ] Static files location.
